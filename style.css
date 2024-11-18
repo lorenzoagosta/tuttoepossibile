@@ -1,7 +1,12 @@
 body {
-  text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 20px;
+    background-color: #d9b99b;
 }
 
 header {
-  text-align: center;
+    text-align: center;
+    margin-bottom: 20px;
+    background: #dda15e;
 }
